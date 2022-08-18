@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic-Tac-Toe app</string>
+
+    <string name="homeTitle">Tic Tac Toe</string>
+
+    <string name="playerNameTitle">ادخلوا اسمائكم</string>
+    <string name="label1">اللاعب الاول 💥</string>
+    <string name="label2">اللاعب الثاني 💥</string>
+    <string name="startPlayButton">ابدأ اللعب</string>
+    <string name="playerHint">ادخل اسمك</string>
+
+
+    <string name="your_turn">دورك يا</string>
+    <string name="score">🙅‍♂ نتيجة</string>
+
+    <string name="win">كسب 🔥</string>
+    <string name="play_again">استمر في اللعب</string>
+    <string name="new_turn">دور جديد</string>
+    <string name="exit">الخروج</string>
+    <string name="no_win">لا احد كسبان 😹</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/drawable/bg.xml" value="0.133" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/drawable/bg_button.xml" value="0.133" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/drawable/bg_exitbutton.xml" value="0.1115" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/drawable/bg_score.xml" value="0.1495" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/drawable/bg_text_header.xml" value="0.1495" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/drawable/bg_winnerbuttons.xml" value="0.1115" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/drawable/button_bg.xml" value="0.1" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/drawable/ic_o.xml" value="0.133" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/drawable/ic_x.xml" value="0.1495" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/layout/activity_main.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/layout/activity_player_names.xml" value="0.22" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/layout/activity_winner_player.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1145" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1145" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/mipmap-anydpi-v26/ic_tic_tac_toe.xml" value="0.1145" />
+        <entry key="..\:/Users/hP/Documents/AndroidStudioProjectsKotlin/TicTacToeapp/app/src/main/res/mipmap-anydpi-v26/ic_tic_tac_toe_round.xml" value="0.1145" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

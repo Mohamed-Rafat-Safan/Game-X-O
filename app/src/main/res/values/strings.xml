@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe app</string>
+
+    <string name="homeTitle">Tic Tac Toe</string>
+
+    <string name="playerNameTitle">Enter Your Names</string>
+    <string name="label1">Player1 💥</string>
+    <string name="label2">Player2 💥</string>
+    <string name="startPlayButton">Start Playing</string>
+    <string name="playerHint">Enter Your Name</string>
+    <string name="your_turn">Your turn,</string>
+    <string name="score">🙅‍♂ Score</string>
+    <string name="win">Win 🔥</string>
+    <string name="play_again">Play Again</string>
+    <string name="new_turn">New turn</string>
+    <string name="exit">Exit</string>
+    <string name="no_win">No Win 😹</string>
+
+
+</resources>
