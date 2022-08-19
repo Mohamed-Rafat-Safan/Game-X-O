@@ -17,11 +17,11 @@ Application Icone :
 Images The Game :
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76782050/185628303-73067235-3359-4db6-bb14-6daa46df406a.jpg" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/76782050/185628303-73067235-3359-4db6-bb14-6daa46df406a.jpg" width="250" height="500" />
  <span> &nbsp;  &nbsp; </span>
-<img src="https://user-images.githubusercontent.com/76782050/185628310-e73939d3-3cb1-4712-8659-259c9a194f00.jpg" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/76782050/185628310-e73939d3-3cb1-4712-8659-259c9a194f00.jpg" width="250" height="500" />
  <span> &nbsp;  &nbsp; </span>
-<img src="https://user-images.githubusercontent.com/76782050/185628317-f9ba2f19-e042-40b0-a251-5c6a2c3f2e14.jpg" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/76782050/185628317-f9ba2f19-e042-40b0-a251-5c6a2c3f2e14.jpg" width="250" height="500" />
 </p>
 
 internal the game :
