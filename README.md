@@ -5,12 +5,17 @@ the game determines the result of each player .
 
 Video about the game :
 
-https://user-images.githubusercontent.com/76782050/185623943-96f61e49-eeb2-4295-bf4b-e72978276ee3.mp4
+ <video align="center" controls>
+  <source src="https://user-images.githubusercontent.com/76782050/185623943-96f61e49-eeb2-4295-bf4b-e72978276ee3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+
+<!-- https://user-images.githubusercontent.com/76782050/185623943-96f61e49-eeb2-4295-bf4b-e72978276ee3.mp4 -->
 
 
 Application Icone :
 
-(https://user-images.githubusercontent.com/76782050/185624600-1985a094-7b1a-4cff-8907-c713bfc7bc93.jpg)
+![IMG_20220818_180011](https://user-images.githubusercontent.com/76782050/185624600-1985a094-7b1a-4cff-8907-c713bfc7bc93.jpg)
 
 Images The Game :
 
