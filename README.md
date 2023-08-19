@@ -4,9 +4,9 @@ You can enter the names of the game, and there is also a screen for those who wi
 the game determines the result of each player .
 
 Video about the game :
-
+<p align="center">
 https://user-images.githubusercontent.com/76782050/185623943-96f61e49-eeb2-4295-bf4b-e72978276ee3.mp4
-
+</p>
 
 Application Icone :
 <p align="center">
